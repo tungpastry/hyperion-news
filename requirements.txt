@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+sqlalchemy
+pydantic
+uvicorn
+fastapi
+redis
